@@ -32,18 +32,11 @@ except:
 ```
 4.1. En el código se programa la hora y minuto, en terminal se muestra en cuantos segundos se enviará
 
-[imagen donde se ve la perte de hora en el codigo]
-<p align="center"><kbd><img src="./images/hora.jpg" alt="Demo" width="300%" /></kbd></p>
+<p><kbd><img src="./images/hora.jpg" alt="Demo" width="300%" /></kbd></p>
 
 4.2. Se abrirá automaticamente el navegador con la pagina https://web.whatsapp.com/
 
-[IMAGEN CON WHATSAPP WEB CON EL MENSAJE PARA ENVIAR]
+<p><kbd><img src="./images/img1.jpg" alt="Demo" width="300%" /></kbd></p>
 
 4.3. Presionar enter para enviar el mensaje
-
-[IMAGEN CON WHATSAPP WEB CONMENSAJE ENVIADO]
-
-4.4. 
-
-
 
